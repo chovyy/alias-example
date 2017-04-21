@@ -5,7 +5,7 @@ PROGRAM alias
   IMPLICIT NONE
 
   INTEGER :: a
-  a = 2
+  a = 42
   CALL something(a, a)
 
 END PROGRAM alias
